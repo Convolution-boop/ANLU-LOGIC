@@ -1,4 +1,4 @@
-# ANLU-LOGIC
+# ANLU-LOGIC-2
 2025FPGA嵌赛安路二赛道
 本赛题有涉及两板之间通信的要求
 main文件是主板的源代码，secondary文件是副板的源代码
